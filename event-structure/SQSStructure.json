@@ -1,0 +1,20 @@
+{
+    "Records": [
+        {
+            "messageId": "fc0564ed-6561-45bb-a5b3-f21dbdd18b11",
+            "receiptHandle": "AQEByb7sJ+I2PbrsNL6u5u0wJCPs0sVAVgXl+srTKy3EQg8KpfkNc/VjG4KC4OkqLk7zMlWnmCD6Nw90nqlzXo+zs8ZfihPTnVmV8tEZbfQiONNjtgiYolLTADMHyY6oR8r2azXgj7CHUVZgDAisbx4z9nioLEBjZvzoWKwP2ngm7/bRbXUl4q4hECW6fpV6WFC6f0CfJL/9w24uW8wAeuli5F8NEZBpVf8+japoWxbgtLyFU1wrtGQmM8G4D2H5JC0iUK6u+y9PxUK7qjhpSgKzy+s+tqmMIoQu1x8Rf5T0AeeX8tzvfpVSQC88/FsIrxbNLeXDfW4llVJovJxdcDz7az9izJA3m9dadYgqMs8C/YjU2s7Rpbpm1hTpt5gBOk8Gp8yYQYAS6/vHwoxTWeYNfw==",
+            "body": "Hello Donald Armando this is a SQS message",
+            "attributes": {
+                "ApproximateReceiveCount": "1",
+                "SentTimestamp": "1683598416853",
+                "SenderId": "478317648480",
+                "ApproximateFirstReceiveTimestamp": "1683598416863"
+            },
+            "messageAttributes": {},
+            "md5OfBody": "f145db4ce1e466e387fde9b20cdf8889",
+            "eventSource": "aws:sqs",
+            "eventSourceARN": "arn:aws:sqs:us-east-1:478317648480:sqs-queue-lambda-crud",
+            "awsRegion": "us-east-1"
+        }
+    ]
+}
